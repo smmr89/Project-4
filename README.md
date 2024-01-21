@@ -31,13 +31,13 @@ Through meticulous application and tuning of these models, we aimed to achieve r
 Our project is powered by a dataset containing 1600 records. The dataset is focused on kaggle as:(https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data)
 
 ## Project Requirements
-### Data Model Implementation (25 points)
+### Data Model Implementation 
 - A Python script initializes, trains, and evaluates a model (10 points)
 - The data is cleaned, normalized, and standardized prior to modeling (5 points)
 - The model utilizes data retrieved from SQL or Spark (5 points)
 - The model demonstrates meaningful predictive power at least 75% classification accuracy or 0.80 R-squared. (5 points)
 
-### Data Model Optimization (25 points)
+### Data Model Optimization 
 - The model optimization and evaluation process showing iterative changes made to the model and the resulting changes in model performance are documented in either a CSV/Excel table or in the Python script itself (15 points)
 - Overall model performance is printed or displayed at the end of the script (10 points)
 
