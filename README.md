@@ -9,9 +9,13 @@ We imported the Wine Dataset into Google Colab using PySpark and further utilize
 Our machine learning pipeline comprised several sophisticated models, each carefully selected to optimize predictive performance:
 
 -Logistic Regression Classifier with the default lbfgs solver
+
 -Logistic Regression Classifier with the liblinear solver
+
 -Logistic Regression Classifier with the default lbfgs solver and integrated RandomOverSampler
+
 -Random Forest Classifier
+
 -Support Vector Classifier
 
 Through meticulous application and tuning of these models, we aimed to achieve refined predictions and gain deeper insights into the characteristics that determine wine quality.
