@@ -22,9 +22,6 @@ Through meticulous application and tuning of these models, we aimed to achieve r
 
 ## Technologies Used
 - Scikit-learn
-- [Other machine learning library]
-
-### Additional Technologies
 - Python Pandas
 - Google Colab
 - PySpark
@@ -49,7 +46,7 @@ Our project is powered by a dataset containing 1600 records. The dataset is focu
 [Provide instructions on how to run your project, including any dependencies and setup steps]
 
 ## Results
-[Discuss the key results, insights, or findings from your project]
+- One our most ideal models is the logistic regression with the 'RandomOverSampler' as its more meaningful with less recall. 
 
 ## Future Improvements
 [Highlight any areas where the project could be improved or extended in the future]
@@ -58,5 +55,5 @@ Our project is powered by a dataset containing 1600 records. The dataset is focu
 - [List contributions of each team member] 
 
 ## Acknowledgments
-[Give credit to any external libraries, resources, or tools you used in your project]
+[Give credit to any external libraries, resources, or tools you used in your project] 
 
